@@ -1,0 +1,52 @@
+
+
+	
+
+
+M?C L?C
+1.	Hu?ng d?n m? file trong Power Designer	1
+2.	Hu?ng d?n m? file trong SQL Server	2
+3.	Hu?ng d?n dang nh?p vào SQL Server khi có tài kho?n	4
+
+
+
+1. Hu?ng d?n m? file trong Power Designer
+Bu?c 1: Nh?n dúp chu?t vào bi?u tu?ng Power Designer trên máy tính
+
+
+Bu?c 2: Ch?n File trên thanh công c? -> Open
+
+
+Bu?c 3: Ch?n ? dia dã luu -> Ch?n file mu?n m?
+
+
+2. Hu?ng d?n m? file trong SQL Server
+Bu?c 1: Nh?n dúp chu?t vào bi?u tu?ng SQL Server trên máy tính
+
+
+Bu?c 2: Ch?n windows authentication  -> ch?n connect d? k?t n?i
+
+
+Bu?c 3: Ch?n File-> Open -> File
+
+Bu?c 4: Ch?n ? dia ch?a File -> Ch?n file mu?n m? ->Nh?n Open
+
+
+3. Hu?ng d?n dang nh?p vào SQL Server khi có tài kho?n
+Ðang nh?p vào SQL Server v?i quy?n qu?n lý
+Tài kho?n: QuanLy1
+Password: QL111
+Ðang nh?p vào SQL Server v?i quy?n nhân viên
+Tài kho?n: NhanVien1
+Password: NV111
+Ðang nh?p vào SQL Server v?i quy?n Shipper
+Tài kho?n: Shipper1
+Password: SP111
+Qu?n lý bán hàng t?i Highland Coffee - Hán Th? Vân Anh - Nguy?n Hoàng Thanh Ân
+
+
+
+
+2
+
+
